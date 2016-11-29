@@ -1,0 +1,2 @@
+# WorkshopDotNetCore
+Workshop DotNet Core
